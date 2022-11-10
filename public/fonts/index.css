@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Aileron';
+  font-weight: normal;
+  font-style: normal;
+  src: url('aileron/Aileron-Black.otf');
+}
+@font-face {
+  font-family: 'Aileron';
+  font-weight: 400;
+  font-style: normal;
+  src: url('aileron/Aileron-Light.otf');
+}
+@font-face {
+  font-family: 'Aileron';
+  font-weight: 700;
+  font-style: normal;
+  src: url('aileron/Aileron-Bold.otf');
+}
+@font-face {
+  font-family: 'Futura';
+  font-weight: normal;
+  font-style: normal;
+  src: url('futura/futur.ttf');
+}
+@font-face {
+  font-family: 'Futura';
+  font-weight: 400;
+  font-style: normal;
+  src: url('futura/Futura\ Light\ font.ttf');
+}
+@font-face {
+  font-family: 'Futura';
+  font-weight: 700;
+  font-style: normal;
+  src: url('futura/Futura\ Bold\ font.ttf');
+}
+
